@@ -1,0 +1,14 @@
+D:\Data\HSUUni\HSU IT\OOAD_PhanTichThietKeHDT\Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net8.0\SchoolManagementSystem.exe
+D:\Data\HSUUni\HSU IT\OOAD_PhanTichThietKeHDT\Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net8.0\SchoolManagementSystem.deps.json
+D:\Data\HSUUni\HSU IT\OOAD_PhanTichThietKeHDT\Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net8.0\SchoolManagementSystem.runtimeconfig.json
+D:\Data\HSUUni\HSU IT\OOAD_PhanTichThietKeHDT\Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net8.0\SchoolManagementSystem.dll
+D:\Data\HSUUni\HSU IT\OOAD_PhanTichThietKeHDT\Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net8.0\SchoolManagementSystem.pdb
+D:\Data\HSUUni\HSU IT\OOAD_PhanTichThietKeHDT\Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\HSUUni\HSU IT\OOAD_PhanTichThietKeHDT\Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.AssemblyInfoInputs.cache
+D:\Data\HSUUni\HSU IT\OOAD_PhanTichThietKeHDT\Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.AssemblyInfo.cs
+D:\Data\HSUUni\HSU IT\OOAD_PhanTichThietKeHDT\Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+D:\Data\HSUUni\HSU IT\OOAD_PhanTichThietKeHDT\Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.dll
+D:\Data\HSUUni\HSU IT\OOAD_PhanTichThietKeHDT\Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net8.0\refint\SchoolManagementSystem.dll
+D:\Data\HSUUni\HSU IT\OOAD_PhanTichThietKeHDT\Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.pdb
+D:\Data\HSUUni\HSU IT\OOAD_PhanTichThietKeHDT\Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net8.0\SchoolManagementSystem.genruntimeconfig.cache
+D:\Data\HSUUni\HSU IT\OOAD_PhanTichThietKeHDT\Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net8.0\ref\SchoolManagementSystem.dll
